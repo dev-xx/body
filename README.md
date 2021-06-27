@@ -1,2 +1,2 @@
 # body
-humen body devolop
+humen body develop
